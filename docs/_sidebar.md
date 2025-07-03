@@ -1,4 +1,4 @@
-- [Overview](README.md)
+- [Overview](00-overview.md)
 - [Introduction](01-introduction.md)
 - [Quick Setup](02-quick-setup.md)
 - [Using Tiny File Manager](03-tiny-file-manager.md)
