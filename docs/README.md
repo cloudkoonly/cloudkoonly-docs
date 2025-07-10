@@ -17,15 +17,15 @@ We help startups launch startup stack in seconds:  **landing page, blog, docs, f
 
 ## What Cloudkoonly Is Not
 
-Cloudkoonly is not a cloud vendor like AWS, we do not provide infrastructure services. 
+- Cloudkoonly is not a cloud vendor like AWS, we do not provide infrastructure services. 
 
 We provide out-of-the-box startup tools, you only need a few clicks to quickly have your own online tools.
 
 
 
-Cloudkoonly is not a traditional SaaS vendor. 
+- Cloudkoonly is not a traditional SaaS vendor. 
 
-We offer three plans: Free Open Source,  Cloud Subscription,  and One-Time Build for You.
+We offer three plans: Free Self-Host,  Cloud Subscription,  and One-Time Build for You.
 
 We hope to help startups choose the right plan at the right stage.
 

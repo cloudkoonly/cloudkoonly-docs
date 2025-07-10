@@ -1,6 +1,8 @@
-- [Overview](README.md)
-- [Get Started](01-getting-started.md)
-- [Products](02-products.md)
+- Get Started
+  - [Overview](README.md)
+  - [Get Started](01-getting-started.md)
+- Products
+  - [Products Overview](02-products.md)
 - [AI Workplace](03-ai-workplace.md)
 - [Api Reference](04-api-reference.md)
 - [Best Practices](05-best-practices.md)
